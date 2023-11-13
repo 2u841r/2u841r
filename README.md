@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=2u841r&color=green)
+![](https://komarev.com/ghpvc/?username=2u841r&color=blue)
 <!--
 ### Hi there 👋
 **2u841r/2u841r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
