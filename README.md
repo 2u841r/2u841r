@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning MERN
-- 👯 I’m looking to collaborate on Fun Projects
+- 🔭 I’m currently working on Many Random Things. 
+- 🌱 I’m currently learning MERN.
+- 👯 I’m looking to collaborate on Fun Projects and Localization (Bengali). 
 - 🤔 I’m looking for help with Unlimited free mentorship :-) 
 - 💬 Ask me about: Nothing (ask chatgpt) 
 - 📫 How to reach me: Create an Issues in [this repository](https://github.com/2u841r/2u841r/issues/new)  
