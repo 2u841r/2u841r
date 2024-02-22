@@ -1,3 +1,6 @@
+<h1 align="center">Hi , I'm Zubair <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=MERN+Stack+Learner%2C++MERNer+%3A-)+)]
+
 - 🔭 I’m currently working on Many Random Things. 
 - 🌱 I’m currently learning MERN.
 - 👯 I’m looking to collaborate on Fun Projects and Localization (Bengali). 
@@ -5,6 +8,7 @@
 - 💬 Ask me about: Nothing (ask chatgpt) 
 - 📫 How to reach me: Create an Issues in [this repository](https://github.com/2u841r/2u841r/issues/new)  
 - ⚡ Fun fact: 2+2 = 4
+
   
 ![](https://komarev.com/ghpvc/?username=2u841r&color=blue)
 <!--
