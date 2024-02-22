@@ -1,7 +1,11 @@
 <h1 align="center">Hi , I'm Zubair <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>  
 <p align='center'>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=MERN+Stack+Learner%2C++MERNer+%3A-)+" alt="Typing SVG" /></a>  </p> 
 
-- 🔭 I’m currently working on Many Random Things.  
+
+- 🔭 I’m currently working on <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> 
 - 🌱 I’m currently learning MERN.  
 - 👯 I’m looking to collaborate on Fun Projects and Localization (Bengali).  
 - 🤔 I’m looking for help with Unlimited free mentorship :-)  
