@@ -25,6 +25,10 @@
 </details>
 
 
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/2u841r/2u841r/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Zubair" />
+</p>
+
 <details open> 
   <summary><h2>📕 Projects I've Contributed To</h2></summary>
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
@@ -63,6 +67,8 @@
 </details> 
 
 ![](https://komarev.com/ghpvc/?username=2u841r&color=blue)
+
+
 <!-- github default 
 ### Hi there 👋
 **2u841r/2u841r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
