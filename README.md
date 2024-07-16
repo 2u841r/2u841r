@@ -27,7 +27,7 @@
 
 
 <p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/2u841r/2u841r/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Zubair" />
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/2u841r/2u841r/output/github-contribution-grid-snake-dark.svg" alt="Zubair" />
 </p>
 
 <details open> 
