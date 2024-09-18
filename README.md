@@ -8,7 +8,7 @@
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> </sub>. <br /> 
- 👯 I’m looking to collaborate on Fun Projects and Localization (Bengali).  <br />
+ 👯 I’m looking to collaborate on MVP / Fun Projects and Localization (Bengali).  <br />
  🤔 I’m looking for help with Unlimited free mentorship :-) (JK) <br />
  💬 Ask me about: Nothing (ask chatgpt)  <br />
  📫 How to reach me: Create an Issue in [this repository](https://github.com/2u841r/2u841r/issues/new)  <br />
@@ -18,24 +18,21 @@
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="center">
-    <a href="https://github.com/2u841r/bytes-newsletter-theme"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=2u841r&repo=bytes-newsletter-theme&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <p>
+    <a href="https://github.com/2u841r/bytes-newsletter-theme"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=2u841r&repo=bytes-newsletter-theme&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> 
     <a href="https://github.com/2u841r/vc-watcher-discord-bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=2u841r&repo=vc-watcher-discord-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
   </p>
 <!--   <a href="https://github.com/2u841r?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
 </details>
 
 
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/2u841r/2u841r/output/github-contribution-grid-snake-dark.svg" alt="Zubair" />
-</p>
 
 <details open> 
   <summary><h2>📕 Projects I've Contributed To</h2></summary>
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="center">
-    <a href="https://github.com/mrhm-dev/full-stack-army"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrhm-dev&repo=full-stack-army&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a
-                                                                                                                                                                                                                        <a href="https://github.com/mrhm-dev/full-stack-army"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SveltePress&repo=sveltePress&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a
+    <a href="https://github.com/mrhm-dev/full-stack-army"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrhm-dev&repo=full-stack-army&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/sveltePress/sveltepress"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SveltePress&repo=sveltePress&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
   </p>
 
 <!--   <p align="left">
@@ -67,6 +64,11 @@
   <a href="https://github.com/2u841r"><img alt="2u841r's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=2u841r&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details> 
+
+
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/2u841r/2u841r/output/github-contribution-grid-snake-dark.svg" alt="Zubair" />
+</p>
 
 ![](https://komarev.com/ghpvc/?username=2u841r&color=blue)
 
