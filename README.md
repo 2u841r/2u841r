@@ -3,19 +3,21 @@
 <p align='center'>  <img src="./download.svg" />  </p> 
 
 
- 🔭 I’m currently working on `2 secret projects :-)` <br />
- <!-- 🌱 I’m currently learning <sub> <a href="#"><img alt="Svelte" src ="https://img.shields.io/badge/Svelte-FF3E00.svg?logo=svelte&logoColor=white"></a> 
-  <a href="#"><img alt="Astro" src ="https://img.shields.io/badge/Astro-EE40F1.svg?logo=astro&logoColor=white"></a> 
- <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> 
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> </sub>. <br />  -->
+ 🔭 I’m currently working on `2 secret projects :-)`<br />
  👯 I’m looking to collaborate on MVP / Fun Projects and Localization (Bengali).  <br />
  🤔 I’m looking for help with Unlimited free mentorship :-) (JK) <br />
  💬 Ask me about: Nothing (ask chatgpt)  <br />
  📫 How to reach me: Create an Issue in [this repository](https://github.com/2u841r/2u841r/issues/new)  <br />
  ⚡ Fun fact: 2+2 = 4 <br />
-  
+
+   <!-- 🌱 I’m currently learning <sub> <a href="#"><img alt="Svelte" src ="https://img.shields.io/badge/Svelte-FF3E00.svg?logo=svelte&logoColor=white"></a> 
+  <a href="#"><img alt="Astro" src ="https://img.shields.io/badge/Astro-EE40F1.svg?logo=astro&logoColor=white"></a> 
+ <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> 
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a> </sub>. <br />  -->
+
+
  <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
