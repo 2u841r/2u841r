@@ -38,7 +38,7 @@
     <a href="https://github.com/mrhm-dev/full-stack-army"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mrhm-dev&repo=full-stack-army&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
     <a href="https://github.com/sveltePress/sveltepress"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SveltePress&repo=sveltePress&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
   </p>
-
+<a href="https://github.com/stars/2u841r/lists/i-contributed-to"> See All </a> 
 <!--   <p align="left">
     <a href="https://github.com/2u841r"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
   </p> -->
