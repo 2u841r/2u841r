@@ -1,8 +1,6 @@
 <div align="center">
   <h1 align="center">Hi , I'm Zubair <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>  
 <p align='center'>  <img src="./download.svg" />  </p> 
-
-
  🔭 I’m currently working on `2 secret projects :-)`<br />
  👯 I’m looking to collaborate on MVP / Fun Projects and Localization (Bengali).  <br />
  🤔 I’m looking for help with Unlimited free mentorship :-) (JK) <br />
