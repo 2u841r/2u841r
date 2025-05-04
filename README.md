@@ -5,7 +5,7 @@
  👯 I’m looking to collaborate on MVP / Fun Projects and Localization (Bengali).  <br />
  🤔 I’m looking for help with Unlimited free mentorship :-) (JK) <br />
  💬 Ask me about: Nothing (ask chatgpt)  <br />
- 📫 How to reach me: Create an Issue in [this repository](https://github.com/2u841r/2u841r/issues/new)  <br />
+ 📫 How to reach me: Create an Issue in <a href=" [this repository]()<br />"> this repository </a> <br />
  ⚡ Fun fact: 2+2 = 4 <br />
 
    <!-- 🌱 I’m currently learning <sub> <a href="#"><img alt="Svelte" src ="https://img.shields.io/badge/Svelte-FF3E00.svg?logo=svelte&logoColor=white"></a> 
