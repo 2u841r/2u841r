@@ -21,6 +21,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p>
+    <a href="https://github.com/2u841r/awesome-rascia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=2u841r&repo=awesome-rascia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
     <a href="https://github.com/2u841r/bytes-newsletter-theme"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=2u841r&repo=bytes-newsletter-theme&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> 
     <a href="https://github.com/2u841r/vc-watcher-discord-bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=2u841r&repo=vc-watcher-discord-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a> 
   </p>
