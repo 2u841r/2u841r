@@ -5,7 +5,7 @@
  👯 I’m looking to collaborate on MVP / Fun Projects and Localization (Bengali).  <br />
  🤔 I’m looking for help with Unlimited free mentorship :-) (JK) <br />
  💬 Ask me about: Nothing (ask chatgpt)  <br />
- 📫 How to reach me: Create an Issue in <a href=" [this repository]()<br />"> this repository </a> <br />
+ 📫 How to reach me: Create an Issue in <a href="https://github.com/2u841r/2u841r/issues/new"> this repository </a> <br />
  ⚡ Fun fact: 2+2 = 4 <br />
 
    <!-- 🌱 I’m currently learning <sub> <a href="#"><img alt="Svelte" src ="https://img.shields.io/badge/Svelte-FF3E00.svg?logo=svelte&logoColor=white"></a> 
@@ -51,7 +51,7 @@
   <p>
     <a href="https://github.com/2u841r/">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=2u841r&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" src="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse"/>
     </a>
 <!--     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> -->
 
