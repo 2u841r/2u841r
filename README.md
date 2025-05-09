@@ -8,6 +8,9 @@
  📫 How to reach me: Create an Issue in <a href="https://github.com/2u841r/2u841r/issues/new"> this repository </a> <br />
  ⚡ Fun fact: 2+2 = 4 <br />
 
+[githubwrapped](https://www.githubwrapped.io/2u841r)  
+[octoprofile](https://octoprofile.vercel.app/user?id=2u841r)
+
    <!-- 🌱 I’m currently learning <sub> <a href="#"><img alt="Svelte" src ="https://img.shields.io/badge/Svelte-FF3E00.svg?logo=svelte&logoColor=white"></a> 
   <a href="#"><img alt="Astro" src ="https://img.shields.io/badge/Astro-EE40F1.svg?logo=astro&logoColor=white"></a> 
  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> 
