@@ -11,8 +11,8 @@
 [githubwrapped](https://www.githubwrapped.io/2u841r)  
 [octoprofile](https://octoprofile.vercel.app/user?id=2u841r)
 
-   <!-- 🌱 I’m currently learning <sub> <a href="#"><img alt="Svelte" src ="https://img.shields.io/badge/Svelte-FF3E00.svg?logo=svelte&logoColor=white"></a> 
-  <a href="#"><img alt="Astro" src ="https://img.shields.io/badge/Astro-EE40F1.svg?logo=astro&logoColor=white"></a> 
+<!-- 🌱 I’m currently learning <sub> <a href="#"><img alt="Svelte" src ="https://img.shields.io/badge/Svelte-FF3E00.svg?logo=svelte&logoColor=white"></a> 
+<a href="#"><img alt="Astro" src ="https://img.shields.io/badge/Astro-EE40F1.svg?logo=astro&logoColor=white"></a> 
  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> 
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
