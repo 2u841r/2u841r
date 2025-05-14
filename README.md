@@ -72,6 +72,8 @@
 
 </details> 
 
+[![Zubair Nuxter profile](https://nuxters.nuxt.com/card/2u841r/og.png)](https://nuxters.nuxt.com/2u841r)
+
 
 <p align="center" style="width: 100%;">
     <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/2u841r/2u841r/output/github-contribution-grid-snake-dark.svg" alt="Zubair" />
