@@ -52,7 +52,7 @@
   <h3>🔥 Streak Stats</h3>
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/2u841r/">
+    <a href="https://github-readme-streak-vercel.vercel.app/?user=2u841r&theme=vitesse">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
     <!--  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" src="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse"/> -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" src="https://github-readme-streak-vercel.vercel.app/?user=2u841r&theme=vitesse"/>
