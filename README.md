@@ -1,4 +1,4 @@
-<table>
+<table style="width:100%;">
   <tr>
     <td valign="top">
       <ul>
@@ -19,7 +19,7 @@
     </td>
   </tr>
   <tr>
-    <td> 
+    <td>
       <p>
     <a href="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
@@ -35,5 +35,3 @@
 
 
 ![](https://repostats.deno.dev/2u841r/2u841r)
-
-
