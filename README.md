@@ -9,7 +9,7 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://nuxters.nuxt.com/atinux">
+      <a href="https://nuxters.nuxt.com/2u841r">
         <img
           src="https://nuxters.nuxt.com/__og-image__/image/2u841r/og.png"
           alt="Atinux on Nuxters"
@@ -28,7 +28,7 @@
     </a>
     </td>
     <td>
-       <a href="https://github.com/2u841r"><img alt="2u841r's Top Languages" width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=2u841r&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=4D9375&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
+       <a href="https://github.com/2u841r"><img alt="2u841r's Top Languages" width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=2u841r&langs_count=8&layout=compact&theme=merko&hide_border=true" height="150px"/></a>
     </td>
   </tr>
 </table>
