@@ -17,16 +17,22 @@
         />
       </a>
     </td>
+  </tr>
+  <tr>
     <td> 
       <p>
     <a href="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
     <!--  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" src="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse"/> -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" src="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" width="300" src="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse"/>
     </a>
+    </td>
+    <td>
+       <a href="https://github.com/2u841r"><img alt="2u841r's Top Languages" width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=2u841r&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=4D9375&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="150px"/></a>
     </td>
   </tr>
 </table>
+
 
 ![](https://repostats.deno.dev/2u841r/2u841r)
 
