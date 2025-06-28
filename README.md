@@ -4,8 +4,8 @@
       <ul>
         <li><a href="https://www.githubwrapped.io/2u841r">Github Wrapped</a></li>
         <li><a href="https://octoprofile.vercel.app/user?id=2u841r">Octo Profile</a></li>
-        <li><a href="https://github.com/stars/2u841r/lists/i-contributed-to">Projects I've Contributed To</a></li>
-        <li><a href="https://github.com/2u841r/2u841r/blob/main/previous.md">Previous Readme.md</a></li>
+        <li><a href="https://github.com/stars/2u841r/lists/i-contributed-to">My Contribution</a></li>
+        <li><a href="https://github.com/2u841r/2u841r/blob/main/previous.md">Previous Readme</a></li>
       </ul>
     </td>
     <td align="center">
@@ -16,6 +16,14 @@
           width="300"
         />
       </a>
+    </td>
+    <td> 
+      <p>
+    <a href="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+    <!--  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" src="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse"/> -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" src="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse"/>
+    </a>
     </td>
   </tr>
 </table>
