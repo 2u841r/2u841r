@@ -34,4 +34,4 @@
 </table>
 
 
-![](https://repostats.deno.dev/2u841r/2u841r)
+![](https://rs2.deno.dev/2u841r/2u841r)
