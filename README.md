@@ -22,10 +22,11 @@
   <tr>
     <td>
       <p>
-    <a href="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+    <a href="https://github-readme-streak-vercel.vercel.app?user=2u841r&theme=vitesse">
+      <!--  https://github-readme-streak-vercel.vercel.app?user=2u841r&theme=vitesse  https://streak-stats.demolab.com/?user=2u841r&theme=vitesse
+      Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
     <!--  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" src="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse"/> -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" width="300" src="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" width="300" src="https://github-readme-streak-vercel.vercel.app/demo/preview.php?user=2u841r&theme=vitesse"/>
     </a>
     </td>
     <td>
