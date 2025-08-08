@@ -21,7 +21,11 @@
   </tr>
   <tr>
     <td>
-    <p> 404 </p>
+      <ul>
+        <li><a href="https://dub.sh/zizvsc">My VS Code Publisher link</a></li>
+        <li><a href="https://dub.sh/zizovpsx">My Open-VSX Publisher link</a></li>
+        <li><a href="https://dub.sh/deletething">DeleteThing Chrome Extension</a></li>
+      </ul>
 <!--       <a href="https://streak-stats.demolab.com?user=2u841r&theme=vitesse">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" width="300" src="https://streak-stats.demolab.com?user=2u841r&theme=vitesse"/>
     </a> -->
