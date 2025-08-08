@@ -21,16 +21,16 @@
   </tr>
   <tr>
     <td>
-      <p>
-    <a href="https://github-readme-streak-vercel.vercel.app?user=2u841r&theme=vitesse">
-      <!--  https://github-readme-streak-vercel.vercel.app?user=2u841r&theme=vitesse  https://streak-stats.demolab.com/?user=2u841r&theme=vitesse
+    <p> 404 </p>
+<!--       <a href="https://streak-stats.demolab.com?user=2u841r&theme=vitesse">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" width="300" src="https://streak-stats.demolab.com?user=2u841r&theme=vitesse"/>
+    </a> -->
+        <!--  https://github-readme-streak-vercel.vercel.app?user=2u841r&theme=vitesse  https://streak-stats.demolab.com/?user=2u841r&theme=vitesse
       Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
     <!--  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" src="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse"/> -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="2u841r's streak" width="300" src="https://github-readme-streak-vercel.vercel.app/demo/preview.php?user=2u841r&theme=vitesse"/>
-    </a>
     </td>
     <td>
-       <a href="https://github.com/2u841r"><img alt="2u841r's Top Languages" width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=2u841r&langs_count=8&layout=compact&theme=merko&hide_border=true" height="150px"/></a>
+       <a href="https://github.com/2u841r"><img alt="2u841r's Top Languages" width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=2u841r&langs_count=8&layout=compact&theme=merko&hide_border=true&hide=html" height="150px"/></a>
     </td>
   </tr>
 </table>
