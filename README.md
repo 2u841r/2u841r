@@ -4,7 +4,8 @@
       <ul>
         <li><a href="https://github.com/stars/2u841r/lists/i-contributed-to">My Contribution</a></li>
         <li><a href="https://www.githubunwrapped.com/2u841r">Github UnWrapped 2024</a></li>
-        <li><a href="https://www.githubwrapped.io/2u841r">Github Wrapped</a></li>
+        <li><a href="https://git-wrapped.com/profiles/2u841r">Git-Wrapped 2024</a></li>
+        <!-- <li><a href="https://www.githubwrapped.io/2u841r">Github Wrapped</a></li> -->
         <li><a href="https://octoprofile.vercel.app/user?id=2u841r">Octo Profile</a></li>
         <li><a href="https://github.com/2u841r/2u841r/blob/main/previous.md">Previous Readme</a></li>
       </ul>
