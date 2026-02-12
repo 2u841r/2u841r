@@ -41,5 +41,8 @@
   </tr>
 </table>
 
+Got 'Thanks' in 
+- https://github.com/opennextjs/opennextjs-cloudflare/pull/1004#issuecomment-3780098424  
+- https://github.com/opennextjs/opennextjs-cloudflare/pull/1083
 
 ![](https://rs2.deno.dev/2u841r/2u841r)
