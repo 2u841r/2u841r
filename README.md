@@ -14,10 +14,15 @@
     <td align="center">
       <a href="https://nuxters.nuxt.com/2u841r">
         <img
-          src="https://nuxters.nuxt.com/__og-image__/image/2u841r/og.png"
+          src="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse"
           alt="Atinux on Nuxters"
           width="300"
         />
+        <!-- <img
+          src="https://nuxters.nuxt.com/__og-image__/image/2u841r/og.png"
+          alt="Atinux on Nuxters"
+          width="300"
+        /> -->
       </a>
     </td>
   </tr>
