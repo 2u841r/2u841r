@@ -14,7 +14,7 @@
     <td align="center">
       <a href="https://nuxters.nuxt.com/2u841r">
         <img
-          src="https://streak-stats.demolab.com/?user=2u841r&theme=vitesse"
+          src="https://top-steaks.vercel.app/?username=2u841r&top=5"
           alt="Atinux on Nuxters"
           width="300"
         />
