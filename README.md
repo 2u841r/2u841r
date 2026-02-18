@@ -12,7 +12,7 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://nuxters.nuxt.com/2u841r">
+      <a href="https://top-steaks.vercel.app/?username=2u841r&top=5">
         <img
           src="https://top-steaks.vercel.app/?username=2u841r&top=5"
           alt="Atinux on Nuxters"
