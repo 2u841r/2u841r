@@ -3,8 +3,8 @@
     <td valign="top">
       <ul>
         <li><a href="https://github.com/stars/2u841r/lists/i-contributed-to">My Contribution</a></li>
-        <li><a href="https://www.githubunwrapped.com/2u841r">Github UnWrapped 2024</a></li>
-        <li><a href="https://git-wrapped.com/profiles/2u841r">Git-Wrapped 2024</a></li>
+        <li><a href="https://www.githubunwrapped.com/2u841r">Github UnWrapped 2025</a></li>
+        <li><a href="https://git-wrapped.com/profiles/2u841r">Git-Wrapped 2025</a></li>
         <!-- <li><a href="https://www.githubwrapped.io/2u841r">Github Wrapped</a></li> -->
         <li><a href="https://octoprofile.vercel.app/user?id=2u841r">Octo Profile</a></li>
         <li><a href="https://resume.github.io/?2u841r">Github Resume</a></li>
@@ -46,8 +46,11 @@
   </tr>
 </table>
 
-Got 'Thanks' in 
+### Got 'Thanks' in 
 - https://github.com/opennextjs/opennextjs-cloudflare/pull/1004#issuecomment-3780098424  
 - https://github.com/opennextjs/opennextjs-cloudflare/pull/1083
+
+### 4x PR approved in 
+- https://github.com/pingdotgg/uploadthing/commits?author=2u841r
 
 ![](https://rs2.deno.dev/2u841r/2u841r)
