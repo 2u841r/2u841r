@@ -46,6 +46,26 @@
   </tr>
 </table>
 
+
+```txt
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEab+yLBYJKwYBBAHaRw8BAQdA4hWNYfZxJ8oxHD5uAIFbkVFsuvb1e3HQj9cM
+2qiBL2O0Jlp1YmFpciBJYm4gWmFtaXIgPHp1YmFpckBpYm56YW1pci5jb20+iJkE
+ExYKAEEWIQT9kRzDWXtzMpXkfFi8+OJneyUtMAUCab+yLAIbAwUJBaS/NAULCQgH
+AgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRC8+OJneyUtMIzoAQCEUpIu6BoZRGbW
+DEmjVk6hiWQZU8xrJqsggUauaTLrJQD+IACg29Elka2hrv9zZ06Dvn0TAm3g2K0n
+eNCl6PxtZwC4OARpv7IsEgorBgEEAZdVAQUBAQdA18d+mcgKOEaGWHYEm8HUMJ8N
+WudoeHux/aThWUf6HyUDAQgHiH4EGBYKACYWIQT9kRzDWXtzMpXkfFi8+OJneyUt
+MAUCab+yLAIbDAUJBaS/NAAKCRC8+OJneyUtMGdWAP4zrRddDn3UoskPndHug6X3
+RFFBq4fqXyoK3yL2fciAUgD/eawCU1DlKAkDnhnoWI+fNZMus1lC8QKG0QrERYX0
+OQA=
+=pkRs
+-----END PGP PUBLIC KEY BLOCK-----
+```
+https://keys.openpgp.org/vks/v1/by-fingerprint/FD911CC3597B733295E47C58BCF8E2677B252D30
+
+
 ### Got 'Thanks' in 
 - https://github.com/opennextjs/opennextjs-cloudflare/pull/1004#issuecomment-3780098424  
 - https://github.com/opennextjs/opennextjs-cloudflare/pull/1083
