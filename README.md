@@ -68,9 +68,5 @@ https://keys.openpgp.org/vks/v1/by-fingerprint/FD911CC3597B733295E47C58BCF8E2677
 
 ### Got 'Thanks' in 
 - https://github.com/opennextjs/opennextjs-cloudflare/pull/1004#issuecomment-3780098424  
-- https://github.com/opennextjs/opennextjs-cloudflare/pull/1083
 
-### 4x PR approved in 
-- https://github.com/pingdotgg/uploadthing/commits?author=2u841r
 
-![](https://rs2.deno.dev/2u841r/2u841r)
