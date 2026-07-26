@@ -81,7 +81,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=2u841r&color=blue)
-![](https://repostats.deno.dev/2u841r/2u841r)
+![](https://repostats.zizdjbd.workers.dev/2u841r/2u841r)
 
 <!-- github default 
 ### Hi there 👋
