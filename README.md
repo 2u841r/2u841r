@@ -13,9 +13,9 @@
       </ul>
     </td>
     <td align="center">
-      <a href="https://top-steaks.vercel.app/?username=2u841r&top=5">
+      <a href="https://top-steaks.vercel.app/?username=2u841r&top=5&current=on">
         <img
-          src="https://top-steaks.vercel.app/?username=2u841r&top=5"
+          src="https://top-steaks.vercel.app/?username=2u841r&top=5&current=on"
           alt="Atinux on Nuxters"
           width="300"
         />
